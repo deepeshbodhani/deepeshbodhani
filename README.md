@@ -17,10 +17,12 @@ A versatile developer specializing in **MERN, Java, PHP, TypeScript, Spring, Fig
     <img align="center" src="https://github.com/deepeshbodhani/deepeshbodhani/blob/main/icons/stats.gif" width="32"/> 
     Stats</h2></summary>
   <div align="center">
-    ![Stat1](https://github-readme-stats.vercel.app/api?username=deepeshbodhani&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![Stat2](https://github-readme-streak-stats.herokuapp.com/?user=deepeshbodhani&theme=tokyonight&hide_border=false)<br/>
-    ![Stat3](https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshbodhani&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![Stat4](https://github-readme-activity-graph.vercel.app/graph?username=deepeshbodhani&theme=tokyo-night)
+    
+    ![](https://github-readme-stats.vercel.app/api?username=deepeshbodhani&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=deepeshbodhani&theme=tokyonight&hide_border=false)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshbodhani&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+    ![](https://github-readme-activity-graph.vercel.app/graph?username=deepeshbodhani&theme=tokyo-night)
+    
   </div>
 </details>
 
