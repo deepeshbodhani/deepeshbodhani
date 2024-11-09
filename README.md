@@ -34,7 +34,7 @@ A versatile developer specializing in **MERN, Java, PHP, TypeScript, Spring, Fig
     <i>You can reach out to me via</i>
     <a href="mailto:deepeshbodhani@gmail.com">
       Mail 
-      <img align="center" src="https://github.com/deepeshbodhani/[deepeshbodhani/blob/main/icons/Gmail.gif" width="100"/>
+      <img align="center" src="https://github.com/deepeshbodhani/deepeshbodhani/blob/main/icons/Gmail.gif" width="100"/>
     </a>
   </p>
 </details>
