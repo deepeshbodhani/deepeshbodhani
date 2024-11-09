@@ -19,10 +19,12 @@ A versatile developer specializing in **MERN, Java, PHP, TypeScript, Spring, Fig
   ![](https://github-readme-activity-graph.vercel.app/graph?username=deepeshbodhani&theme=tokyo-night&count_private=true)
 </div>
 
-## Contact Me
-  <summary><h2> 
-    <img align="center" src="https://github.com/deepeshbodhani/deepeshbodhani/blob/main/icons/Contact.gif" width="37"/> 
-    Contact Me</h2></summary>
+  <summary>
+    <h2> 
+      <img align="center" src="https://github.com/deepeshbodhani/deepeshbodhani/blob/main/icons/Contact.gif" width="37"/> 
+      Contact Me
+    </h2>
+  </summary>
   <p>
     <i>You can reach out to me via</i>
     <a href="mailto:deepeshbodhani@gmail.com"><img align="center" src="https://github.com/deepeshbodhani/deepeshbodhani/blob/main/icons/Gmail.gif" width="100"/></a>
